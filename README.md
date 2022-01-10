@@ -8,5 +8,12 @@ In this project I have created a weather-app to get the weather information of a
 * Weather api
 
 
-![Home Page](https://imgur.com/a/nWkyFkf)
+![Home Page](https://i.imgur.com/nsVKkPz.png)
+
+# Author
+
+### Ankit Mishra :boy:
+>  [Linkedin](https://www.linkedin.com/in/ankit-mishra-b96594195)
+
+>  [GitHub](https://github.com/Ankit-Mishra07)
 
